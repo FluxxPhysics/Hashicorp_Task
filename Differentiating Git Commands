@@ -4,10 +4,10 @@ The purpose of this page is to familiarize you with push, pull and fetch Git com
 
 Below are brief descriptions of each command:
 
-* Git push - updated changes from a local branch that are sent (pushed) to a remote repository
-* Git pull - updated changes from a remote branch that are pulled into your tracking branch and merged
+* 'Git push' - updated changes from a local branch that are sent (pushed) to a remote repository
+* 'Git pull' - updated changes from a remote branch that are pulled into your tracking branch and merged
 into a local branch
-* Git fetch - updated changes sent from a remote repository into your tracking branch
+* 'Git fetch' - updated changes sent from a remote repository into your tracking branch
 
 ## How these commands work
 
